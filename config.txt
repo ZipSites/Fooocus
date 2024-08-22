@@ -1,0 +1,53 @@
+{
+    "path_checkpoints": [
+        "/Users/ben/Desktop/AI/FOOOCUS/models/checkpoints"
+    ],
+    "path_loras": [
+        "/Users/ben/Desktop/AI/FOOOCUS/models/loras"
+    ],
+    "path_embeddings": "/Users/ben/Desktop/AI/FOOOCUS/models/embeddings",
+    "path_vae_approx": "/Users/ben/Desktop/AI/FOOOCUS/models/vae_approx",
+    "path_vae": "/Users/ben/Desktop/AI/FOOOCUS/models/vae",
+    "path_upscale_models": "/Users/ben/Desktop/AI/FOOOCUS/models/upscale_models",
+    "path_inpaint": "/Users/ben/Desktop/AI/FOOOCUS/models/inpaint",
+    "path_controlnet": "/Users/ben/Desktop/AI/FOOOCUS/models/controlnet",
+    "path_clip_vision": "/Users/ben/Desktop/AI/FOOOCUS/models/clip_vision",
+    "path_fooocus_expansion": "/Users/ben/Desktop/AI/FOOOCUS/models/prompt_expansion/fooocus_expansion",
+    "path_wildcards": "/Users/ben/Desktop/AI/FOOOCUS/wildcards",
+    "path_safety_checker": "/Users/ben/Desktop/AI/FOOOCUS/models/safety_checker",
+    "path_sam": "/Users/ben/Desktop/AI/FOOOCUS/models/sam",
+    "path_outputs": "/Users/ben/Desktop/AI/FOOOCUS/outputs"
+     "path_sam": "/Users/ben/Desktop/AI/FOOOCUS/models/sam",
+    "path_outputs": "/Users/ben/Desktop/AI/FOOOCUS/outputs",
+    "default_aspect_ratio": "2550*2898",
+    "available_aspect_ratios": [
+    "704*1408",
+    "704*1344",
+    "768*1344",
+    "768*1280",
+    "832*1216",
+    "832*1152",
+    "896*1152",
+    "896*1088",
+    "960*1088",
+    "960*1024",
+    "1024*1024",
+    "1024*960",
+    "1088*960",
+    "1088*896",
+    "1152*896",
+    "1152*832",
+    "1216*832",
+    "1280*768",
+    "1344*768",
+    "1344*704",
+    "1408*704",
+    "1472*704",
+    "1536*640",
+    "1600*640",
+    "1664*576",
+    "1728*576",
+    "2550*2898" 
+]
+
+}
